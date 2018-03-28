@@ -1,2 +1,10 @@
 *.class
 *.log
+spark-warehouse
+target
+.idea
+*.db
+*.iml
+.DS_Store
+flash_data
+flash_logs
